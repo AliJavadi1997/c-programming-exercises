@@ -72,6 +72,7 @@ END FUNCTION
 
 ## Types and Variables in C Implementation
 
+```
 #include <stdio.h>
 #include <math.h>      // optional, for clarity if using sqrt()
 
@@ -105,16 +106,15 @@ int main() {
 
     return 0;
 }
-int num: stores the integer input by the user.
+```
 
-int isPrime: acts as a boolean (1 = true, 0 = false).
+### Variable Descriptions
 
-int i: loop variable for trial division.
-
-scanf("%d", &num): reads one integer; error-checks against non-numeric input.
-
-i * i <= num: avoids calling sqrt() by comparing squares, slightly faster.
-
+- `num`: stores the integer input by the user
+- `isPrime`: acts as a boolean (1 = true, 0 = false)
+- `i`: loop variable for trial division
+- `scanf("%d", &num)`: reads one integer; error-checks against non-numeric input
+- `i * i <= num`: avoids calling sqrt() by comparing squares, slightly faster
 
 ## Usage
 
