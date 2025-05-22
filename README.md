@@ -24,8 +24,8 @@ Each exercise is contained in its own directory with:
 - Any additional resources needed for the exercise
 
 Current exercises:
-- `isPrime` - Determines whether a given number is prime
-- `hallowSquare` - Creates a hollow square pattern
+- [`isPrime`](./isPrime) - Determines whether a given number is prime
+- [`hallowSquare`](./hallowSquare) - Creates a hollow square pattern
 
 ## Prerequisites
 
