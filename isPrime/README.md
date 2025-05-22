@@ -1,6 +1,8 @@
 # IsPrime Program
 
 This is a simple C program that helps you determine whether a number is prime or not. It's part of a collection of C programming exercises designed to help you learn and practice programming concepts.
+[Return to C Programming Exercises](https://github.com/AliJavadi1997/c-programming-exercises/blob/main/README.md)
+
 
 ## What Is a Prime Number?
 
